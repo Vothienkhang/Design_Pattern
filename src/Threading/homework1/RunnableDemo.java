@@ -1,4 +1,4 @@
-package Threading;
+package Threading.homework1;
 
 public class RunnableDemo implements Runnable {
     private Thread t;
